@@ -1,0 +1,286 @@
+Ahoj, vítám tě u první lekce kvartální teorie. To bude taková vstupní lekce, která nám ukáže, na co se máme soustředit nebo o čem vůbec kvartální teorie je. s tím, že dostaneme se k prvním základům, dostaneme se k tomu, co to jsou kvartály, jak ty kvartály mohou působit prostě a jak je jak je
+
+00:17
+rozlišujeme. Povíme si, jaké používám ukazatele, eh indikátory, eh kdy je ten trh pro kvartální teorii připraven a eh na co se soustředí nebo které dni jsou jakože takovej high probability. V dalších lekcích potom se budeme učit už konkrétní detaily celé kvartální teorie
+
+00:35
+a podíváme se na to, jak se naučit nastupovat, jak rozlišovat prostě jednotlivé crack correlation, jak rozlišovat jednotlivé věci, tak abysme náš trading mohli dovést do úspěšného konce. Proč kvartální teorie nebo co je za jejím úspěchem? Eh, víte, kvartální teorie je úplně to samé, co každý jiný
+
+00:54
+obchodní systém. Jo, není na tom asi nic extra zázračného. Jediné, co má kvartální teorie navíc a za těch svojých pět let, které jsem různě testoval, různé systémy a než jsem se usadil prostě v smart money konceptu a v kvartální teorii, tak je výrazně přesnější. Je výrazně, má výrazně větší
+
+01:10
+winrate a pokud se vám objeví ta situace na trhu, kterou vy hledáte, tak je velmi velká šance na to, že bude úspěšná. Je to pro mě přirozeně lepší proti ostatním systémům, protože mít winrate 55 %, 52 % a nebo 75 %, 80 je rozdíl. Jo, je to rozdíl ve dvou, třech obchodech los na
+
+01:32
+10 obchodech a psychika je výrazně stabilnější. Eh, lépe se mi potom čtou grafy, jsem odpočatější a všechno s tím spojené. Prostě tím, že je to přesnější, tak mi dodává takový větší klid a větší sebedůvěru. Mojím ú mojí úlohou bude, vy už jste si přešli smart money concept, který mám
+
+01:53
+jako prvou část celého celého toho lektoringu nebo mentoringu a moji úlohou je prostě teďka vás převézt přes zá přes základy kvartální teorie s tím, že eh úspěšní eh ti z vás, kteří úspěšně projdou tou lekcí a budou úspěšně umět prostě rozlišovat eh v kvartální teorii to, co
+
+02:12
+je důležité, tak se dostanu ještě potom k adtage lekcím, které posunou zase kousek dál tu přesnost. Jo. Pamatujte si, že trh je o pravděpodobnosti, o ničem jiném to není. Je to na tr na trhu prostě se dějou věci neočekávané, co my neumíme ovplivnit. Jsou to jak news, jsou to jak nějaké
+
+02:31
+cokoliv, co kdo Trump například poslední dva měsíce prostě za doby toho, kdy Trump uvažuje, jaké cela točím toto video. Eh, každou neděli, kterou řekne prostě, že je nějaké clo, tak ten graf uletí dolů nahoru. Prostě šílené, jo, co se děje. A to jsou věci, které vy nikdy
+
+02:48
+nebudete umět ovlivnit. A kvartální teorie tím, jak je přesná a tím, jak vlastně se dá se říct rozlišuje ta divergence na třech graf na třech grafech, které spolu souvisí, tak vám to př tam vám to přivede možnost prostě být výrazně víc v klidu, jo? Nehledě na to,
+
+03:07
+co se děje na trhu, protože když budete pracovat s pravděpodobností, nepotřebujete vy vědět, co dělá trh. Nepotřebujete vědět fundament, nepotřebujete vědět nic jiného. Stačí vám jenom tady tato technická znalost, která je 20 % celého úspěchu. Pokud ovšem pochopíte, že díky
+
+03:23
+pravděpodobnosti můžete být ziskový, tak eh všechno všech ten pocit, že já chci být lepší, všech ten pocit, že já chci prostě dokázat z toho trhu vymačknout víc, všech ten pocit půjde půjde stranou, jo, protože jediná pravděpodobnost vás přivede k vysněnému cíli. Nic jiné. Žádná zázračná metoda,
+
+03:42
+žádné zázračné knoow, nic jiné, jenom pravděpodobnost. A pokud to pochopíte, jste výrazně víc o krok napřed napřed. Jak jsem řekl, podíváme se na ty základy a projdeme si prostě celou prezentaci tak, jak je. Na graf se dneska nedostaneme. Budeme se bavit spíš teoreticky, ale v těch dalších lekcích
+
+04:00
+už si budeme věci ukazovat na grafu a už se dostaneme k tomu, co je opravdu potřeba. Jo. Eh, trhy, trhy díky tomu, že se díváme na stejně korelující se grafy, to se dozvíte později, které ty grafy jsou korelující prostě a proč se dívat na až tři grafy. Tak díky tomu, že se díváme
+
+04:20
+na tři grafy a porovnáv porovnáváme tři grafy mezi sebou, tak vidíme určitou diskorelaci. To znamená, že v určitých momentech ten graf přestane korelovat a my tu korelaci přesně sledujeme. A v případě, že přestane graf korelovat, znamená to pro nás pozor, vykřičník,
+
+04:37
+tady se něco děje. Je potřebuje, je potřeba sice potom ještě další signály, které se tvoří na základě to, že se nám nějak vytvoří svíčky, prostě něco se tam udě, je to v určité zóně, ve které se to udě. Ke všemu se dostaneme, ale je důležité, abyste pochopili, že na to, abyste mohli
+
+04:54
+kvartální teorii obchodat, potřebujete minimálně dva asety, ale nejlépe tři, jo, protože na dvou asetech, ano, i tam může být vidět ten ta diskorelace, ale bude vidět méně častěji jako na třech asetech, jo, je klíčová a právě, že nám dává otočení k potencionálnímu, teda
+
+05:10
+dává nám signál k potencionálnímu otočení ještě dřív, než smart money concept. Jo, to je to je na tomto krásné, že vy dostanete tu informaci trošku rychleji než při jiných eh metodách a tím pádem, když dostanete rychleji tu informaci, můžete mít užší vstup. Kdy můžete mít užší vstup, můžete
+
+05:29
+mít vyšší winrat rrate. Jo, takže to souvisí s tím, to souvisí s tím, že eh že je kvartální teorie, proč jsem já jí začal obchodovat a proč se na ní soustředím, protože má nejpřesnější eh winrate ze všech obchodních systémů a umí mít vysoké RR. Já netoužím po vysokém RR. Můj obchodní
+
+05:54
+systém je postavený na dvou, na 3R. Mí to stačí. Já jsem s tím v pohodě, ale pokud byste si to natestovali a pokud byste šli vyloženě do vyšších eh RR, tak eh risk reward, tak je to eh je to reálné. Budete mít možná méně těch obchodů, ale je to reálné. Jo a navíc kvartální teorie má naprosto přesné
+
+06:15
+pravidla. To znamená, že tam neexistuje, že vám vstoupí nějaká subjektivita do toho, jestli se ten setup stal nebo nestal, jestli vy máte nastoupit nebo nemáte nastoupit do obchodu. Pravděpodobnost v obchodních systémech je nebo pravděpodobnost na trhu prostě řešíme tak, že my musíme mít stále
+
+06:30
+stejný vstup, stále stejně položené eh stále stejně položený stop loss na základě stejného pravidla a pokud možno brát stále stejný winrat rate. Ale abyste si dokázali představit, co tím myslím, tak eh při Smart Money konceptu potřebujete zapojit trošku, ne, že fantasy, ale už
+
+06:48
+musíte hledat na těch na tom grafé, že co je breaker přesně, jak ten breaker je moc široký prostě, jo, kde já přesně určím PVG a nebo neurčím PVG, jestli se to dělá, jestli to bylo dostatečně impulzně překonané a nebo nebylo, mám čekat na návrat do OT, od do OT nebo
+
+07:03
+nemám prostě, jo? A toto všechno vás při kvartální teorii nečeká, protože u u kvartální teorie prostě máte A, stalo se něco A, stalo se něco B, stalo se to v místě C a potvrdilo se to Dčkem. Vstupuju. Čtyři parametry vám stačí pro to, abyste vstoupili. My se jich naučíme
+
+07:21
+víc těch parametrů, abysme jich mohli potom jakože mezi sebou míchat, protože nechceme se soustředit jenom třeba na tři, ale budeme mít pět, ale stačí nám tři z těch pěti. Jo, to uvidíme později. Jaký jsou korelační asety? Eh, mám tady link na MyFX Book, kde uvidíte
+
+07:41
+korelační asety. Tato prezentace je přílohou k videu. Klidně si můžete stáhnout a podívat se, jestli pro vás nesedí nějaký jiný aset, protože jste možná v jiném časovém pásmu. Teďka nejste aktuálně v Evropě, ale jste v Asii, dejme tomu. Chtěli byste si najít něco v Asii. Nicméně já obchoduju
+
+07:59
+dolarový index, euro a GBP. Jo, já vstupuju obchodně jenom do eura. Je to nějaké moje pravidlo, není to podmínka, můžete nastupovat do GBP. A m se GBP nelíbí, protože pro mě je to jako Down Jones na na indexech prostě amerických, jo, takovej příliš volatilní market a já
+
+08:17
+jsem confi v tom, že jsem v euru. To znamená, že to je první triáda a setuje dolar, euro, GBP. Eh, velmi úzce spolu kolerují, to znamená, že jdou naprosto stejným směrem. Pozor, dolar jde úplně opačně jako euro, jo? To znamená, že ale koreluje. To znamená, že si dolar
+
+08:34
+stoupá, euro klesá. To je korelace. A já to potom dělám na grafu tak, že si, že si dolar otočím, ale to uvidíte přímo potom na grafech. Druhý, druhá triáda setu prostě je SPX, Nasdaq a Down Jones. Uže si to děláte na e mini a máte mini futures nebo teda máte futuresové účty a
+
+08:55
+nebo máte klasické CFDové účty, je to jedno, ale prostě potřebujete mít tady tuto triádu. Pokud byste chtěli vyloženě ropu obchodovat, je to ropa, benzín, topný olej a v případě Krypta je to BTC, Ethereum a Total 2. To je Total Market bez BTC. Jo, tady tyto tři asety
+
+09:16
+korelujou. V případě, že tam dojde prostě k té diskorelaci, tak potom dojde k otočení na trhu. Já teda obchoduji ještě jednou pouze tady tyto dva asety s tím, že 80 % všech mých obchodů jsou na euru a dolar. Proč? Protože já jsem, já jsem v Evropě, eh, jsem eh takový hráč,
+
+09:34
+že já chci jít dopoledne, když jsem sám doma a rodina je pryč prostě, tak já se chci věnovat tradingu a nebo případně sledovat, jestli ten trading něco přináší odpoledne potom už po 15, po 16 hodě, kdy sice je na na těch indexových marketech e někdy výrazně lepší pohyb a
+
+09:50
+nebo dá se někdo fakt má rád NZDAK, prostě obchoduje jenom NZDAK, to je v pořádku. Já už odpoledne při grafu moc sedět nechci a chci se věnovat spíš sobě, svojí rodině, psovi prostě a životu jako takovému. Jo, ropu jsem neobchodoval. Vím, že někteří ve skupině kluci to šli. Eh, a e krypto dávám tady
+
+10:10
+jenom z důvodu, kdybyste někdo chtěli kryptoobchodovat na základě této teorie a abyste viděli, že se to dá. Jenom já krypto mám jakože close to door úplně, jo. Pro mě je krypto eh mrtvé. Všeobecně není to nic proti nikomu. Obchodujte si, co chcete. Je mi to fakt úplně jedno. Na
+
+10:28
+začátek, jestli vás můžu poprosit, minimálně v rámci toho, co eh budeme dělat v kurzu na ten asset 3, asset 4, se nedívejte vůbec, to si potom vyzkoušejte sami. Ale pojďme se dívat na eh eurový aset, případně na ten aset na zdakovský, to znamená, že indexový. Jo. Eh, kvůli čemu já teda ještě jednou
+
+10:49
+obchoduju Euro, protože je to je to trh, kde je nejvíc peněz ze všech prostě trhů, které jsou ze všech Asetu a já prostě nedochází tu k fake pohybům tolik, jo. To znamená, že ten graf je výrazně technicky čistější, jo? To už je vidět na indexech, kdy přijdou zprávy
+
+11:10
+prostě a ty zprávy bývají volatilní tak, že nejdřív vybijou likviditu na jedné straně a potom se rozběhnou na druhou stranu. To o znamená, že je někdo, kdo tu likviditu na tom trhu vybírá v dostatečném množství peněz, což se u eura stane málokdy, aby ta likvidita byla takto
+
+11:29
+vybrán. OK. Proč kvartály? Protože je to jako příroda. Těžko se mi to vysvětluje, proč to tak je, ale vemte si fibonačího čísla. Všichni nebo kdo se věnujete tradingu delší dobu, případně znáte trošku matematiku, poznáte Fibonačího čísla a víme, že 0,618, že to je takzvaný, že golden number, že zlaté
+
+11:53
+číslo, je to číslo, kde se odvíjí celá příroda od tohoto čísla. A můžeme si vysvětlovat, jak chceme, že žees to někdo vymyslel. Jo, nevymyslel to nikdo. Změřte si svoji výšku, změřte si svůj pupek, jak ho máte vysoko od země a eh zároveň od hlavy, zvrchu a najdete
+
+12:10
+přesně Zlatý řez. Jo, zlatý řez, 618. Všichni to tak máme, všichni. A je to dáno tím, že eh v zhluku informací a buněk, které jsou prostě v tom množství, které se tvoří v přírodě prostě v tomto dochází k určité cyklí cítě. A toto je ta cyklicita prostě, která je dokazatelná,
+
+12:32
+že výbornčího číslo mám sám já na sobě. Jo, žádný algoritmus mi nestvořil, jo, stvořila mě příroda a stejně to funguje s časem, stejně to funguje s kvartály, proto proto se jedná o kvartální teorii. Máme 24 hodinový denní cyklus. 24 hodinový denní cyklus můžeme rozdělit na čtyři
+
+12:53
+kvartály po 6 hodin. Ten první kvartál je Asie 6ihodinová, potom se 6 hodin obchoduje Londyn, potom se 6 hodin obchoduje New York AM a následně se necelých 6 hodin do uzavření burzy obchoduje New York PM. Jo. Eh, stejně je to potom eh v týdnu, stejně je to v měsí, stejně je to v roku. Rok má čtyři
+
+13:15
+kvartály. kvartál jedna, kvartál 2, kvartál 3, kvartal, tak ho poznáte, zima, jar, léto, podzim. Stejně je to potom ve čtyřiletém cyklu období, v 16 letetém cyklu období a a ty období se násobí v rámci tady tohoto e v rámci tady těchto čísel. Vysvětlovat si, proč to tak je, je asi
+
+13:35
+úplně zbytečné. prostě to funguje. Eh, a když se na to nebudete dívat nad nad zázračnou myšlenkou algoritmu, jo, já to budu hodně potírat, i když je to takové teďka happy, marketingově prostě, že pojď, naučím tě algoritmus, prostě budeš rozumět tomu, co trh dělá. Eh, je to
+
+13:52
+prostě klasický cyklus. Klasický cyklus jako všechno ostatní, jo? A budeme se tak dívat i na ty jednotlivé cykly, na ty jednotlivé kvartály. Kvartál jedna je akumulace. Je to akumulační kvartál, kdy dochází jakože k startu nějaké sezóny. Je to jako svíčka OHLC. Pokud jste
+
+14:09
+viděli prostě ten můj ten můj e kurz eh Smart Money konceptu, který předchází tady této kvartální teorii, tak víte, co to je OHLC svíčka. Následně dochází k manipulaci. To znamená, že startujeme někde. Následně dochází k manipulaci. Jakože trhy trhy eh připravujou prostě shortaře na
+
+14:29
+to, že je short. Všichni skáčkovou do shortu. Já chci být v shortu prostě. A v zápětí prostě po té manipulaci přichází distribuce. Jo, svíčka vyletí nahoru a kvartál čtyř je vlastně závěr té svíčky nebo závěr dne, závěr týdne, závěr měsíce, eh, kdy dochází k jemnému
+
+14:47
+retracementu a nebo k úplnému reverzálu. Jo, kvartál 4 se za mě nejhůř obchoduje, eh, protože pro mě jakože pro eurového tradera je už večer mrtvý. Já jsem intraday. To znamená, že já se snažím vevnitř v průběhu dne obchodovat. Večer je euro už mrtvé. Na závěr měsíce
+
+15:06
+dochází k uzavření pozic. Na závěr roku dochází k uzavření pozic. Na závěr kvartálu dochází k uzavření pozic a je to pro mě výrazně méně čítatelné tento kvartál číslo čtyři. Jo, kvartál číslo jedna je akumulační. Pokud je akumulační, tak máme výhodu v kvartálu číslo dva, že
+
+15:23
+umíme odhadnout, kdy dojde k té manipulaci. Jo, to se budeme učit. K tomu se určitě dostaneme, ale díky tomu akumulačnímu kvartálu je taky pro mě mé méně obchodovatelný. Pro mě to znamená, že Asii neobchoduju, neobchoduju nebo nebo výrazně méně obchoduju v pondělí, tam vstupuju s 50%
+
+15:45
+pozicí. Eh, málokdy obchoduju nebo výrazně méně obchoduju první kvartál v měsíci. Budeme si učit, kdy to je ten první kvartál v měsíci. A eh, první kvartál v roku neobchodovat znamená čtvrt roku neobchodovat. Takže to je pro mě e ne úplně, že OK. Ale první kvartál aktuálně máme za sebou. Je to leden,
+
+16:03
+únor, březen. Začíná duben, začíná manipulační kvartál. Takže uvidíme, jak ten manipulační kvartál eh se co nám ukáže, jo, že případně co se objeví. Samozřejmě to může být i trošku jinak. Je to AMD. Tady vidíte akumulace, manipulace, distribuce AMD. X je Q4 a někdy může být, že XAMD. Jo, tento posun
+
+16:27
+mezi kvartály je teďka irelevantní. Budeme se soustředit jenom na to, že kvartál číslo jedna je akumulační, kvartál číslo dva manipulační, kvartál číslo tři je distribuční. Jo, a čtvrtý kvartál je buď retracement a nebo úplný reverzál. E, výborně. To znamená, že máme tady máme tady nějaký roční
+
+16:49
+kvartál. Ten začíná 21 a končí 30.12. Vidíte tady kvartál 1, kvartál 2 3 4. To je yerly. Jo. Potom na ten yearly kvartál používáme weekly time frame, jo? To znamená, že na jarly kvartální cykli se podív se budeme zapínat svíčky. Jakože když budeme se dívat, jak ten jel
+
+17:10
+funguje, tak se budeme dívat na výkly v časovém rámci. Jo, potom tady máme quarterly, to znamená, že v rámci toho jednoho čtvrt roku je znovu čtyř kvartál, tam se díváme na daily časovém rámci a potom v rámci toho jednoho kvartálu, je to už je jeden měsíc, je eh čtyři týdny jakoby monthly časový
+
+17:38
+rámec v rámci jednoho měsíce, jo, vždycky je to pyramida jakoby, jo. To znamená, že začíná mít jeden kvartál, ten se skládá ze čtyřech prostě potom ten menší se skládá zase ze čtyřech, ten menší zase ze čtyřech a jdeme tak až na 90ový, respektive mikročasový rámec na jednu minutu časového rámce.
+
+17:57
+Tady vidíte monthly. Máme první kvartál, druhý kvartál, třetí kvartál, čtvrtý kvartál, čtyřhodinový časový rámec a v rámci toho Montly, to je týden, jo, jeden monthly Q1 je jeden týden. Toto bude se nám trošku plést s časovými rámcemi, ale velmi rychle si na to zvyknete, jo? To znamená, že montly
+
+18:17
+časový rámec v kvartální teorii, abysme měli, že první týden v měsíci, druhý týden v měsíci, třetí týden a čtvrtý týden v měsíci se díváme na čtyřhodinovém časovém rámci a ten čtyřhodinový časový nám rámec nám potom ukáže jednotlivé ty eh eh jednotlivou tu divergenci a eh diskorelaci, divergenci
+
+18:38
+a zároveň potom i ty svíčky, které my potřebujeme k tomu, abysme viděli, že ta eh diskorelace nebo divergence je potvrzená. Jo, ona se ona se následně potvrzuje nějakými částkovými prostě svíčkami a ty svíčky tam potřebuju vidět a musím je vidět na čtyřhodinovém
+
+18:53
+časovém rámci. V rámci týdne to je potom pondělí, úterý, středa, čtvrtek. V pátek je takzvaný Black Day, to znamená, že černý den. Dostaneme se k tomu v dalších lekcích, jo? Eh, týden sledujeme na jednohodinovém časovém rámci. To znamená, že v pondělí se budu dívat
+
+19:11
+na diskolaci mezi pondělím a úterí na 1 hodinu timeframe, mezi úterý a středou na 1 hodinu timeframe a tak samo mezi středou a čtvrtkem na 1 hodinu timefe. Jo, pokud mi to ukáže, že tam ta diskorolace je, že tam je eh, že tam je divergence, že tam ta divergenence
+
+19:27
+následuje nějakými crackovými svíčkami, které já potřebuju k tomu a mám informaci, jak mohu vstoupit a nebo nemohu vstoupit, co to znamená HTF a LTF, SSMT, SMT, tak potom je to v pořádku prostě a můžu ten obchod zrealizovat, jo? A potom v rámci jednoho dne máme tady Asii, druhý kvartál máme
+
+19:47
+Londýn, třetí kvartál máme New York AM a čtvrtý kvartál máme New York PM. To sledujeme na časovém rámci 15 minutovém. To znamená, že v rámci dne potom jednotlivé session, proto se to jmenuje teda v rámci daily je jsou jednotlivé session, to je Asie, Londyn, New York,
+
+20:05
+IM, New York, PM a tyto session prostě hlídám, že se spolu pohybujou. Pokud se začnou pohybovat trošku jinak, pozor, vykřičník, něco se děje, ukáž mi svíčky 15 minutové. Výborně. Eh, můžu a nebo nemůžu vstoupit. Jo, je to jednoduché. Je to bez všech indikátorů. Není to ne,
+
+20:21
+neukazujem vám tam nic, že prostě tu je překoupený, tu je přeprodaný trh, tady je volum profile takový, tady není. Je to opravdu jenom na základě svíček a indikátory, který já používám, tak já používám jenom na to, aby já jsem si mohl rozdělit ty sekvence, jo, aby jo,
+
+20:38
+jak jsme si ukazovali, eh, tak máme tady výkly, časový rámec, kvartál 1, kvartál 2, kvartál 3, kvartál čtyři, prostě pondělí, útery, středa, čtvrtek, pátek, Black Day. Jo, v pátek je black day, kdy nechcete obchodovat. Prostě je to je to něco, kdy máme black day, black weekend
+
+20:56
+a black mont. To se budeme budeme specifikovat. Jednotlivé eh diskorelace a nebo a nebo ty divergence řešíme na hodinových časových rámcích. V rámci dne je to potom Asie, Londyn, New York, IM, New York, PM, co to řešíme vzájemné. Divergence řešíme na 15 minutových časových rámcích. V rámci
+
+21:14
+jedné session jsou potom další čtyři 4 1 a půl hodinové cykly, kdy to řešíme na pětiminovém časovém rámcích a každá ta session, která tady je, tak má ještě potom 22,5 minutový časový rámec, který řešíme na jeden jedné minutě. Já osobně na minutu nelezu prostě skoro vůbec. Můj
+
+21:33
+můj nejnižší časový ram je 5m. Na minutu lezu jenom v rámci toho, když eh je to 15, je tam nějaký je tam nějaké FVG. Vrátíme se do tohoto FVG a já chci vidět potom na té minutě smart money reverzal, tak jako jsme se bavili v předchozím cykle, jo, v předchozím cykle na smart money
+
+21:52
+koncepte. OK. Indikátory, které já používám, mám tady new weekly opening gap, new daily opening gap. Používám to od Cryptonightu. Je to pro mě nejlepší. Vyzkoušel jsem různé verze, ale tady tento používám nejraději. Je to o nastavení toho, aby se vám zobrazoval new weekly a new daily gapy, protože v
+
+22:12
+těch gapech, když vznikne kvartální teorie, tak je to potom high probability. Gapy fungují jako supportence a musíte s ní počítat v tom vašem eh pravděpodobnostním scénáří jakoby. Jo. Potom používám triat quarterly theory profil. Tady mi to ukazuje, vidíte, jak to mám naznačené,
+
+22:30
+jak to mám jakože co tady mám všechno. To mi naznačuje ty jednotlivé profily, tak že na jednotlivých časových rámcích já vidím přesně, jestli jaké ty prof, jaké ty kvartály jsou. Někdo používá ten D indikátor, který je úplně dole. Já ho nepoužívám, protože já to potom na tom
+
+22:47
+grafu velmi špatně vidím. Takže já to chci mít takto horizontálně, sorry, vertikálně to chci mít rozdělené. A na základě toho vertikálního rozdělení já to osobně vidím lépe. Jo, standard deviation používám od Merka. To je to je u nás ve skupině indikátor a precision
+
+23:05
+swing point taky od Merka. Co to je ten standard division a precision swing point, to uvidíte v dalších lekcích. Jo, na to, aby kvartální teorie dobře fungovala, potřebujete volatilitu v trhu. Pravidelně sledujeme každý den, jaké jsou news naplánované. Eh, tím, že se učí kvartální teorie a že
+
+23:24
+dej strujci kvartální teorie, tak spíš je všechno orientované na USD, protože USD je král celého trhu, i když je to index, který se skladá z pěti mn, ale e všichni sledujou vlastně jakoby červené složky USD, jo. Jedná se to hlavně proto, že většina obchoduje indexy a a
+
+23:43
+odpoledne na těch indexech je určitě to USD důležitější než samotné euro. Já, protože obchoduju euro a soustředím se na Euro, tak já mám zapnuté aj euro a GBP jakékoliv news, jo, aby jsem viděl, že ty newsky tam jsou, že něčeho se na tom trhu může stát a před news byste neměli nikdy obchodovat. To si
+
+24:00
+pamatujte, jo, že mít nastoupené do obchodu před news je velmi nebezpečné. Je to jeden z nejhorších zlozvyků traderů, že chcou urvat ten silný pohyb na trhu, jo. Chcou urvat celý ten pohyb toho toho těch newsek. Ano, i kvartální teorie před News umí vykreslit, že se to
+
+24:17
+stane, ale nic není zárukou a několikrát jsme se nám stalo, že jsme že, že že se to otočilo proti nám proto a potom místo 500 dolarů stop loss dostanete 1500 stop loss, protože vám nezachytí stopku, urve se ten trh prostě někde jinde a samozřejmě vás odpíše tam, kde se
+
+24:33
+zastaví. Jo, dejte si na to pozor. A některé účty, některé společnosti dovolujou obchodovat přes hnus, některé ne. Já mám takový, co dovoluje, ale přesto všechno velmi silně newsky volím, které teda ano a nebo které ne. Jo, takže takže tady vidíme třeba v pondělí,
+
+24:51
+že máme silný den na news, na euro, na GBP aj na dolar. Tady můžu obchodovat, protože tu bude volatilita a s největší pravděpodobností se kvartální teorie vykreslí. Eh, tak samo potom v úterý mám tady čtyři newsky, ale tyto všechny newsky jsou oranžové. na oranžové newsky
+
+25:08
+nechci obchodovat, ale vím, že tady jsou, kdyby náhodou se tam něco dělo. Potom hnedka na to ve středu je tady GBP, má CPI červené, ve čtvrtek USD a v pátek já neobchoduju, ale pro ty, kteří by chtěli obchodovat, tak je tady USD a GBP. Jo, toto je základ toho, co
+
+25:25
+potřebujete ke kvartální teorii. Pokud máte pondělík, které nemá zprávy a neobsahuje ty news, tak raději si dejte kávu, dejte si pokoj, přečtěte si nějakou dobrou knihu a nebo si běžte projít, protože eh je velmi malá pravděpodobnost, že kvartální teorie vznikne a když vznikne, tak je potom low
+
+25:43
+probability, jo. To znamená, že není to kvartální teorie tu, kterou byste chtěli obchodovat. Eh, jestli chcete mít jestli chcete mít 75, 80 % úspěšnost na trhu. Eh, a jestli chcete jestli chcete nastupovat opravdu jenom do těch A++ setupů, tak dejte si na to pozor. A
+
+26:02
+v den, kdy není news, v den, kdy je to po Bank Holiday, to se budeme ještě učit, jakože v které dni je ano a ne, tak eh eh tam nenastupujte, jo? Dejte si radši od grafu pohov. Další podmínkou pro to, aby kvartální teorie mohla fungovat, je synchronizace, jo? To znamená, že vám jde graf nějakou
+
+26:23
+nějakým směrem nahoru. Tady vidíte, že mám dolarový index, uprostřed mám euro a na konci mám British Pound. Vidíte, že mi to jde v uvozovkách rovně. Na začátku jsme se bavili, že dolarový index je otočený. Ano, já když sleduju dolarový index, já musím mít reverzně graf, jo.
+
+26:38
+To znamená, že tady ten graf nemá nahoře tu nejsilnější hodnotu, ale má jí dole. A je to kvůli tomu, aby já jsem právě jednoduše viděl takovéto eh ty diskorelace, respektive respektive tu divergenci, jo? A pokud já tu divergenci uvidím a následně uvidím svíčky, které
+
+26:55
+mi potvrzujou, že ta divergence je správná, tak potom můžu do té e kvartální teorie nastoupit a můžu si zobchodovat většinou prudký pohyb, který po kvartální teorii následuje. Co ale jsem myslel tou synchronizací grafu je ta, že když vidíte tady jdeme nahoru, tady máme nějak tady tady nám ten ten v
+
+27:14
+tomto mojém ponímání prostě ten dolar stoupá, euro tady stoupá, tady velmi laguje, laguje GBP a teď bysme si řekli, že prostě to není korelované, jo? GBP má tady high a tady tady tady jsme měli high, ustřelili jsme dolů a znovu high. Takže toto by člověk povedal nezaujatý,
+
+27:33
+že to prostě není úplně, že korelované, ale pozor, poslední lék, který tady jde a jde vytvořit právě tu e korelaci prostě nebo diskorelaci v kvartální teorii, tak eh je synchronizovaný a tím, že je ten poslední lek synchronizovaný, tak pro mě je to známka, že grafy jsou
+
+27:52
+synchronní a dochází právě tady k té kvartální teorii. Když mě budete sledovat a budete se dívat, budete chodit na ranní streamy, pravidelně, e, budete se dívat na streamy, který já dávám prostě případně na YouTube, tak uvidíte, že kvartální teorie umí velké pohyby. Umí. Jo, já si ty ty já ty velké
+
+28:11
+pohyby neberu. Mně to je jedno. Já nepotřebuju ty velké pohyby. Mi stačí, když trefím obchod, tak aby jsem si vzal dva až tři R. A that's all. Jo, to je všechno pro mě. Někdo ale jede na 7R. V pohodě. jenom ze zkušeností a z toho, jak jsem kvartální teorii testoval, tak
+
+28:30
+já potřebuju ten pohyb, aby se stal rychle. On ve finále možná dá i 20. Jo, já jsem měl pohyby, které dali i 20, ale mezitím jsou retracementy, mezitím jsou nějaké pohyby, které já nechci být účastem těch pohybů. Jo, já všeobecně rád obchoduju, tak že zapnu obchod, počkám si, než ten
+
+28:49
+obchod doběhne, prostě nemusím se dívat na ten graf, ale mám rád, když to mám tak jakože pod palcem pod kontrolou. Když to ukončím, odcházím pryč od monitoru. Pokud jdu já náhodou ven a nebo mám něco zařídit, tak dokonce i předtím, než mám 2R, tak já ten obchod vypnu. Je to moje metoda, je to jenom
+
+29:06
+můj styl, protože já se tak cítím komfortně. Jo, neříkám, že je to správně, ale sami uvidíte, když budete obchodovat, jaký ten svůj komfortní styl si styl si v tom najdete, jo? Takže ještě jednou, abysme shrnuli prostě celou celou tu kvartální teorii. Je to teorie jako každá jiná. Oproti
+
+29:28
+jiným teoriím je výrazně přesnější, je výrazně jednodušší na pochopení a má naprosto přesné pravidla. Jo, vy potřebujete pro trading, abyste měli naprosto přesné pravidla, aby se váš mozog nemohl rozhodnout, jestli vstoupí nebo nevstoupí, aby měl jednoznačně na
+
+29:45
+grefu nakresleno, že ano, můžu vstoupit, ne, nemůžu vstoupit. A toto kvartální teorie umožňuje. 
